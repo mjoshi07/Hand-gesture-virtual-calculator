@@ -36,8 +36,9 @@ A Simple application which recognizes hand gestures and perform basic arithmetic
 ![1](https://user-images.githubusercontent.com/31381335/115984489-f8b95280-a5c4-11eb-8c86-e8e07cc463f0.jpg)
 * 1
 
+
 ![2](https://user-images.githubusercontent.com/31381335/115984497-fe169d00-a5c4-11eb-8b93-668b4cde2d52.jpg)
-*2
+* 2
 
 
 ![3](https://user-images.githubusercontent.com/31381335/115984450-c14aa600-a5c4-11eb-916a-3fa992da077a.JPG)
