@@ -52,3 +52,9 @@ A Simple application which recognizes hand gestures and perform basic arithmetic
 ![5](https://user-images.githubusercontent.com/31381335/115984462-cb6ca480-a5c4-11eb-8f4c-09280742444d.JPG)
 * 5
 
+
+## Datasets have been collected from the following sources but not limited to them 
+* https://github.com/imRishabhGupta/Indian-Sign-Language-Recognition
+* https://labicvl.github.io/ges_db.htm
+* https://github.com/SparshaSaha/Hand-Gesture-Recognition-Using-Background-Elllimination-and-Convolution-Neural-Network
+* https://www.kaggle.com/datamunge/sign-language-mnist
