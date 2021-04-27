@@ -11,6 +11,8 @@ A Simple application which recognizes hand gestures and perform basic arithmetic
 * To form the first number, user needs to show gestures which correspond to number-characters (1, 2, 3, 4, 5) one by one, each number should be seperated by "Empty" gesture so that it knows a new number has to be appended to the first number
 * When first number is complete, show a gesture which correspond to operator-character (addition, subtraction, multiplication, division) and then repeat Step 1 to read the second number
 * After second number is complete, show a gesture of any operator to End the gesture recognition and performs the calculation
+* To reset the calculator, just show a yellow color object to the camera having a size roughly greater than 10 % of the frame size
+* To stop the calculator and the application, show a RED color ojbect to the camera having a size roughly greater than 10 % of the frame size 
 
 ## Gestures: list is in the order of training
 ![division](https://user-images.githubusercontent.com/31381335/115984242-9d3a9500-a5c3-11eb-9183-c0992b60e3c8.jpg)
