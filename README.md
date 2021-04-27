@@ -1,4 +1,4 @@
-# hand-gesture-virtual-calculator
+# Hand-gesture-virtual-calculator
 A Simple application which recognizes hand gestures and perform basic arithmetic [addition, subtraction, multiplication, division]
 
 ## Dependencies
